@@ -1,8 +1,8 @@
 # Hello, Je suis Mathieu ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
-Actuellement en formation de developpeur web chez [OpenClassrooms](https://openclassrooms.com/fr/paths/185-developpeur-web)
+Actuellement en formation de developpeur web chez
 
 ## 🚀 A propos de moi
-Récemment reconverti dans le developpement Web, je termine ma formation dans quelques jours...  
+Récemment reconverti dans le developpement Web, je viens de terminer la formation de Développeur Web chez [OpenClassrooms](https://openclassrooms.com/fr/paths/185-developpeur-web).🎯 
 Extrêmement motivé pour développer constamment mes compétences et évoluer professionnellement.   
 <p align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></p>
 
