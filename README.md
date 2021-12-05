@@ -19,7 +19,7 @@ Extrêmement motivé pour développer constamment mes compétences et évoluer p
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📊 Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MathieuAbbal&show_icons=true&theme=blue-green)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MathieuAbbal&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MathieuAbbal&show_icons=true&theme=blue-green) [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MathieuAbbal&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuAbbal&theme=blue-green) 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Contactez-moi 
