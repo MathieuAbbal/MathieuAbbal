@@ -20,7 +20,6 @@ Extrêmement motivé pour développer constamment mes compétences et évoluer p
 
 ## 📊 Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MathieuAbbal&show_icons=true&theme=blue-green) [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MathieuAbbal&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuAbbal&theme=blue-green) 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Contactez-moi 
 <a href = 'https://twitter.com/Mathieu_dev_'>![Twitter](https://img.shields.io/badge/Mathieu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>  <a href = 'https://www.linkedin.com/in/mathieu-abbal'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = 'https://portfolio.mat-dev.fr/'>![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a> 
