@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hello, Je suis Mathieu ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello, Je suis Mathieu ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50">
 
 ## 🚀 A propos de moi
 Récemment reconverti dans le developpement Web, je viens de terminer la formation de Développeur Web chez [OpenClassrooms](https://openclassrooms.com/fr/paths/185-developpeur-web).🎯 
 Extrêmement motivé pour développer constamment mes compétences et évoluer professionnellement.   
-<p align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></p>
+<p align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "50"></p>
 
 
 ## 🛠 Skills  
@@ -26,10 +26,10 @@ Extrêmement motivé pour développer constamment mes compétences et évoluer p
 ## 📊 Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MathieuAbbal&show_icons=true&theme=blue-green) [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MathieuAbbal&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)  
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Contactez-moi 
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width = "50">Contactez-moi 
 <a href = 'https://twitter.com/Mathieu_dev_'>![Twitter](https://img.shields.io/badge/Mathieu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>  <a href = 'https://www.linkedin.com/in/mathieu-abbal'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = 'https://portfolio.mat-dev.fr/'>![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a> 
 
-<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
+<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "50">
 
 ![Carte de blagues](https://readme-jokes.vercel.app/api)
 
