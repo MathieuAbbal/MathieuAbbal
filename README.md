@@ -8,7 +8,7 @@
 Récemment reconverti dans le developpement Web, je viens de terminer la formation de Développeur Web chez [OpenClassrooms](https://openclassrooms.com/fr/paths/185-developpeur-web).🎯 
 Extrêmement motivé pour développer constamment mes compétences et évoluer professionnellement.   
 <p align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "50"></p>
-<img src="https://api.daily.dev/devcards/28a54c12e08f467fa795eb43a7d702ee.png?r=zd7" width="400" alt="Mathieu's Dev Card"/>
+<p align="center"><img src="https://api.daily.dev/devcards/28a54c12e08f467fa795eb43a7d702ee.png?r=zd7" width="400" alt="Mathieu's Dev Card"/></p>
 
 ## 🛠 Skills  
 ### langages de programmations:    
