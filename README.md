@@ -36,4 +36,5 @@ Extrêmement motivé pour développer constamment mes compétences et évoluer p
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=MathieuAbbal) ![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+![Profile View Counter](https://komarev.com/ghpvc/?username=MathieuAbbal)
+[![made with  - Markdown and ❤️](https://img.shields.io/badge/made_with_-Markdown_and_❤️-2ea44f)](https://)
