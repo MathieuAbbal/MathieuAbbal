@@ -18,7 +18,7 @@
 ## 📫 Contactez-moi 
 <a href = 'https://twitter.com/Mathieu_dev_'>![Twitter](https://img.shields.io/badge/Mathieu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>  <a href = 'https://www.linkedin.com/in/mathieu-abbal'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = 'https://portfolio.mat-dev.fr/'>![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 
-<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "50">
+
 
 
 <div align="center">
