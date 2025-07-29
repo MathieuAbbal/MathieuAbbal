@@ -16,7 +16,7 @@
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📫 Contactez-moi 
-<a href = 'https://twitter.com/Mathieu_dev_'>![Twitter](https://img.shields.io/badge/Mathieu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>  <a href = 'https://www.linkedin.com/in/mathieu-abbal'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = 'https://mathieuabbal.github.io/mat-dev/'>![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
+<a href = 'https://twitter.com/Mathieu_dev_' target="_blank">![Twitter](https://img.shields.io/badge/Mathieu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>  <a href = 'https://www.linkedin.com/in/mathieu-abbal' target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = 'https://mathieuabbal.github.io/mat-dev/' target="_blank">![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 
 
 
