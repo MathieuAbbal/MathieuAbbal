@@ -75,16 +75,14 @@ const mathieu = {
 ## 📊 GitHub Stats
 
 <div align="center">
+<!-- Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathieuAbbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff&rank_icon=github" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MathieuAbbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuAbbal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=42A5F5&text_color=ffffff" />
+<!-- Top Langs -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathieuAbbal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=42A5F5&text_color=ffffff" />
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MathieuAbbal&theme=tokyonight&hide_border=true&background=0D1117&ring=42A5F5&fire=42A5F5&currStreakLabel=42A5F5)
-
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MathieuAbbal&theme=tokyonight&hide_border=true&background=0D1117&ring=42A5F5&fire=42A5F5&currStreakLabel=42A5F5" />
 </div>
 
 ---
