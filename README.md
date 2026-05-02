@@ -24,7 +24,7 @@ const mathieu = {
     frontend:     ["Angular", "TailwindCSS", "RxJS", "Chart.js"],
     backend:      ["LoopBack 4", "Node.js", "REST API", "OpenAPI"],
     cartographie: ["MapLibre GL JS"],
-    data:         ["MongoDB", "Sequelize"],
+    data:         ["MongoDB"],
     outils:       ["Git", "NPM", "VS Code", "ClickUp"],
   },
   currentFocus: "Cartographie web & architecture Full-Stack",
